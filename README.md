@@ -1,5 +1,4 @@
-# student-simulator
-# Student-Tutor Simulator
+# Student Simulator
 
 A realistic AI student that responds differently based on knowledge mastery levels (0%, 50%, 100%).
 
