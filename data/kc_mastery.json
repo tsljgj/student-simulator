@@ -1,0 +1,50 @@
+{
+  "basic_addition": {
+    "name": "Basic Addition (single digit)",
+    "mastery": 100,
+    "keywords": ["add", "plus", "+", "sum"],
+    "description": "Adding single digit numbers"
+  },
+  "carry_addition": {
+    "name": "Addition with Carrying (two digit)",
+    "mastery": 50,
+    "keywords": ["carry", "two digit", "double digit"],
+    "description": "Adding two digit numbers requiring carrying"
+  },
+  "basic_subtraction": {
+    "name": "Basic Subtraction",
+    "mastery": 100,
+    "keywords": ["subtract", "minus", "-", "difference"],
+    "description": "Basic subtraction operations"
+  },
+  "borrowing_subtraction": {
+    "name": "Subtraction with Borrowing",
+    "mastery": 0,
+    "keywords": ["borrow", "regroup"],
+    "description": "Subtraction requiring borrowing/regrouping"
+  },
+  "multiplication_tables": {
+    "name": "Multiplication Tables",
+    "mastery": 50,
+    "keywords": ["multiply", "times", "×", "*"],
+    "description": "Basic multiplication facts"
+  },
+  "long_multiplication": {
+    "name": "Long Multiplication",
+    "mastery": 0,
+    "keywords": ["long multiplication", "multi-digit multiplication"],
+    "description": "Multi-digit multiplication"
+  },
+  "basic_division": {
+    "name": "Basic Division",
+    "mastery": 0,
+    "keywords": ["divide", "÷", "/", "division"],
+    "description": "Basic division operations"
+  },
+  "place_value": {
+    "name": "Place Value Understanding",
+    "mastery": 100,
+    "keywords": ["ones", "tens", "hundreds", "place value"],
+    "description": "Understanding place value in numbers"
+  }
+}

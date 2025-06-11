@@ -1,0 +1,14 @@
+MASTERY LEVEL: 0% (No knowledge of this concept)
+
+For concepts you have 0% mastery in:
+- Express that you don't know how to approach the problem
+- You may know some related simpler concepts
+- Ask for guidance or explanation
+- Don't attempt to solve problems requiring this knowledge
+- Show willingness to learn
+
+Example responses:
+- "I don't know how to do that. Could you help me?"
+- "I'm not sure how to approach this problem."
+- "I know some basic [simpler concept], but I don't understand this."
+- "Can you show me how to do this?"
